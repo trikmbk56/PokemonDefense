@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D6FE6C37-CDC3-5BA8-FB10-96A2749276E4}") = "Pokemon Defense", "Assembly-CSharp.csproj", "{6EBD757E-643E-3600-66CB-46EE9167EE48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EBD757E-643E-3600-66CB-46EE9167EE48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EBD757E-643E-3600-66CB-46EE9167EE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EBD757E-643E-3600-66CB-46EE9167EE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EBD757E-643E-3600-66CB-46EE9167EE48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
